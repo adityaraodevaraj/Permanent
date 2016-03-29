@@ -6,6 +6,7 @@ public class GITExample {
 		System.out.println("commit");
 		System.out.println("branchOne");
 		System.out.println("branchThree");
+		System.out.println("branchTwo");
 	}
 
 }
